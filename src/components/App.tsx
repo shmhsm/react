@@ -6,7 +6,7 @@ export default function App() {
   return (
     <>
       <h1>Best selling</h1>
-      <Product name="Tacos With Lime"
+      <Product name="Tacos With Mine)))"
                imgUrl="https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?w=640"
                price={10.99}
       />
